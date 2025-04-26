@@ -61,19 +61,6 @@ As a full-stack developer, mastering Python is essential for Django and building
 - ORM and Django models (theory)
 
 ---
-
-## 🚀 Mini Projects (To Demonstrate Skills)
-
-| Project | Description |
-|--------|-------------|
-| ✅ Calculator | Perform arithmetic operations |
-| ✅ Contact Book | Save, edit, delete contact data using files |
-| ✅ Expense Tracker | Log daily expenses and total them |
-| ✅ Text Analyzer | Count words, characters, and frequency in a string |
-| ✅ Quiz App | Multiple-choice quiz using loops and conditionals |
-
----
-
 ## 👨‍💻 About Me
 
 I’m a self-taught **Full-Stack Developer** currently focusing on:
